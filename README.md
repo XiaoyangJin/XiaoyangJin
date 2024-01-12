@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer from China</h3>
 
 # 💫 About Me:
-- ⚡ Primary coding language: **Java**<br>- 💼 I’m looking for: **Full-time full-stack engineer role**<br>- 🎓 I’ll gain my master's degree on: **May 2024**<br>- 🚀 I’m currently working on: my full-stack project **[study sphere](https://github.com/XiaoyangJin/Study_Sphere_Spring_BackEnd)**<br>- 🌱 I’m currently learning: **AWS, Angular, Spring...**<br>- 📫 The best way to reach me: **jin.xiaoya@northeastern.edu**<br>- 📜 Fun fact: **Certifications are my jam – can't stop earning them!**<br>
+- ⚡ Primary coding language: **Java**<br>- 💼 I’m looking for: **Full-time full-stack engineer role**<br>- 🎓 I’ll gain my master's degree on: **May 2024**<br>- 🚀 I’m currently working on: **my full-stack project [study sphere](https://github.com/XiaoyangJin/Study_Sphere_Spring_BackEnd)**<br>- 🌱 I’m currently learning: **AWS, Angular, Spring...**<br>- 📫 The best way to reach me: **jin.xiaoya@northeastern.edu**<br>- 📜 Fun fact: **Certifications are my jam – can't stop earning them!**<br>
 
 
 ## 🌐 Socials:
