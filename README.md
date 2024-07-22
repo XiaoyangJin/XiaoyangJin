@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
 # 💫 About Me:
-- ⚡ Primary coding language: **Java**<br>- 💼 I’m looking for: **Full-stack engineer role**<br>- 🚀 I’m currently working on: **My full-stack project [Study Sphere](https://github.com/XiaoyangJin/Study_Sphere_Spring_BackEnd)**<br>- 🌱 I’m currently learning: **AWS, Angular, Spring...**<br>- 📜 Fun fact: **Certifications are my jam – can't stop earning them!**<br>
+- ⚡ Primary coding language: **Java**<br>- 💼 I’m looking for: **Full-stack engineer role**<br>- 🚀 I’m currently working on: **My full-stack project [Study Sphere](https://github.com/XiaoyangJin/Study_Sphere_Spring_BackEnd)**<br>- 🌱 I’m currently learning: **AWS, Angular, Spring...**<br>- 📜 Fun fact: **Certifications are my jam – can't stop earning them!**<br>- 📄 My recent Certificate: **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/586164d8-147b-4821-8527-eda7b9f17763/linked_in?t=sfwrfv)**<br>
 
 
 ## 🌐 Socials:
