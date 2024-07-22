@@ -1,9 +1,9 @@
 [![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)](https://github.com/XiaoyangJin) 
 <h1 align="center">Hi 👋,I'm Xiaoyang Jin</h1>
-<h3 align="center">A passionate full-stack developer from China</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 # 💫 About Me:
-- ⚡ Primary coding language: **Java**<br>- 💼 I’m looking for: **Full-time full-stack engineer role**<br>- 🎓 I’ll gain my master's degree on: **May 2024**<br>- 🚀 I’m currently working on: **My full-stack project [Study Sphere](https://github.com/XiaoyangJin/Study_Sphere_Spring_BackEnd)**<br>- 🌱 I’m currently learning: **AWS, Angular, Spring...**<br>- 📫 The best way to reach me: **jin.xiaoya@northeastern.edu**<br>- 📜 Fun fact: **Certifications are my jam – can't stop earning them!**<br>
+- ⚡ Primary coding language: **Java**<br>- 💼 I’m looking for: **Full-stack engineer role**<br>- 🚀 I’m currently working on: **My full-stack project [Study Sphere](https://github.com/XiaoyangJin/Study_Sphere_Spring_BackEnd)**<br>- 🌱 I’m currently learning: **AWS, Angular, Spring...**<br>- 📜 Fun fact: **Certifications are my jam – can't stop earning them!**<br>
 
 
 ## 🌐 Socials:
